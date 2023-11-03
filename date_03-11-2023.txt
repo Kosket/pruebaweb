@@ -8,9 +8,10 @@
 20:30;Euroliga Liga Regular;Baskonia;BC Partizan Beograd;M+ Deportes 3 (65);
 20:30;Euroliga Liga Regular;Virtus Bologna;Anadolu Efes Istanbul;M+ Deportes 4 (191);
 20:30;Primera Federación Futsal;Osasuna Magna;Industrias Santa Coloma;FEF TV;
-20:30;WTA Finals;Round Robin;WTA TV;DAZN (Regístrate);DAZN 2 (M71);Teledeporte;RTVE Play;
 21:00;La Liga EA Sports;UD Las Palmas;At. Madrid;M+ LaLiga TV (M54-O110);M+ LaLiga TV 2 (M57 O112);LaLiga TV Bar;
 21:00;LaLiga Hypermotion;Espanyol;Eibar;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);M+ Vamos (8 y 50);Movistar+ Lite;LaLiga TV M2;
 21:00;Masters París 1/4 de Final ATP Masters 1000;A. De Miñaur;A. Rublev;ATP Tennis TV;M+ Deportes 2 (64);
+21:30;WTA Finals Round Robin;C. Gauff;M. Vondrousova;WTA TV;DAZN (Regístrate);DAZN 2 (M71);RTVE Play;
 22:00;Primera Federación Futsal;Jimbee Cartagena FS;Real Betis FS;FEF TV;
+23:00;WTA Finals Round Robin;I. Swiatek;O. Jabeur;WTA TV;DAZN (Regístrate);DAZN 2 (M71);Teledeporte;RTVE Play;
 BaloncestoESP;
