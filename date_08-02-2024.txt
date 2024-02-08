@@ -14,12 +14,14 @@
 14:30;WTA Torneo de Abu Dhabi 2ª Ronda;C. Bucsa;H. Watson;WTA TV;DAZN (Regístrate);
 15:00;Torneo de Marsella 2ª Ronda;S. Korda;G. Dimitrov;ATP Tennis TV;
 16:00;WTA Torneo de Cluj-Napoca 2ª Ronda;MC. Osorio;K. Pliskova;WTA TV;DAZN (Regístrate);
-16:30;Preolímpico Femenino;España;Japón;Teledeporte;RTVE Play;
+16:30;Preolímpico Femenino;España;Japón;DAZN (Regístrate);Teledeporte;RTVE Play;
 17:00;WTA Torneo de Cluj-Napoca 2ª Ronda;C. Tauson;J. Cristian;WTA TV;DAZN (Regístrate);
 17:30;Eurobasket Femenino Fase de Clasificación;Israel;República Irlanda;FIBA YouTube;
 18:00;Torneo de Córdoba 2ª Ronda;L. Darderi;S. Ofner;ATP Tennis TV;
 18:00;Torneo de Marsella 2ª Ronda;H. Hurkacz;A. Shevchenko;ATP Tennis TV;
 18:30;Euroliga Liga Regular;Anadolu Efes Istanbul;Maccabi Tel Aviv BC;M+ Deportes 3 (65);
+19:00;Preolímpico Femenino;Hungría;Canadá;DAZN (Regístrate);
+19:00;Preolímpico Femenino;Hungría;Canadá;DAZN (Regístrate);
 19:00;Torneo de Dallas 2ª Ronda;D. Koepfer;R. Hijikata;ATP Tennis TV;
 19:30;Torneo de Córdoba 2ª Ronda;Y. Hanfmann;RA. Burruchaga;ATP Tennis TV;
 19:30;Torneo de Marsella 2ª Ronda;J. Lehecka;A. Rinderknech;ATP Tennis TV;
@@ -28,4 +30,6 @@
 20:30;Euroliga Liga Regular;Baskonia;ASVEL Lyon-Villeurbanne;M+ Deportes 2 (64);
 20:30;Euroliga Liga Regular;Valencia Basket;Olympiacos Piraeus;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 20:30;Torneo de Dallas 2ª Ronda;J. Thompson;D. Kudla;ATP Tennis TV;
+20:45;Preolímpico Femenino;Estados Unidos;Bélgica;DAZN (Regístrate);
+21:00;Preolímpico Femenino;Alemania;Serbia;DAZN (Regístrate);
 22:30;Torneo de Córdoba 2ª Ronda;H. Dellien;S. Báez;ATP Tennis TV;
