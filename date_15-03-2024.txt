@@ -13,6 +13,4 @@
 20:30;Euroliga Liga Regular;Virtus Bologna;Real Madrid Baloncesto;Movistar Plus+ (M7);M+ Deportes (63);
 20:30;LaLiga Hypermotion;Eldense;FC Cartagena;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M2;
 20:30;Primera Federación Futsal;Palma Futsal;Viña Albali Valdepeñas;FEF TV;
-21:00;La Liga EA Sports;Real Sociedad;Cádiz CF;DAZN LaLiga (M55 O113);DAZN (Regístrate);LaLiga TV Bar;
 21:00;Primera Federación Futsal;Movistar Inter;Servigroup Peñiscola FS;FEF TV;
-23:30;WTA Indian Wells;Semifinal 1;WTA 1000;WTA TV;DAZN (Regístrate);DAZN 2 (M71);Teledeporte;RTVE Play;
