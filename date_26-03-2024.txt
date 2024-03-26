@@ -4,6 +4,7 @@
 00:30;NBA Liga Regular;Atlanta Hawks;Boston Celtics;M+ Deportes (63);
 01:30;WTA Miami 1/8 de final;I. Swiatek;E. Alexandrova;WTA TV;DAZN (Regístrate);
 16:00;Masters Miami 1/8 de final;T. Machac;M. Arnaldi;ATP Tennis TV;M+ Deportes 2 (64);
+16:00;Puerto Cabello Open;1ª Ronda;Premier Padel;Premier Padel YouTube;
 17:00;Masters Miami 1/8 de final;D. Koepfer;D. Medvedev;ATP Tennis TV;M+ Deportes (63);
 17:30;Masters Miami 1/8 de final;C. Ruud;N. Jarry;ATP Tennis TV;M+ Deportes 2 (64);
 19:00;Eurocup Semifinales Game 1;JL Bourg;Besiktas JK Istanbul;M+ Deportes 5 (192);
